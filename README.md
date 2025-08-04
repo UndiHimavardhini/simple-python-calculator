@@ -1,1 +1,1 @@
-It is an simple python calculator which helps the user to operate basic operations of addition,subtraction,multiplication and division on 2 numbers.
+I have used basic functions,loops,input and print statments to create a simple python calculator which helps the user to operate basic operations of addition,subtraction,multiplication and division on 2 numbers.
